@@ -1,3 +1,6 @@
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
+
 <img src="./doc/yfinance-gh-logo-dark.webp#gh-dark-mode-only" height="100">
 <img src="./doc/yfinance-gh-logo-light.webp#gh-light-mode-only" height="100">
 
@@ -80,5 +83,5 @@ details on your rights to use the actual data downloaded.
 
 Please drop me a note with any feedback you have.
 
-**Ran Aroussi**
+**Ai JZB**
 
